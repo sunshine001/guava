@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.sunshine001</groupId>
     <artifactId>guava</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0</version>
     <name>guava</name>
     <description>A java's library for quickly development.</description>
 
@@ -76,5 +76,19 @@
             </plugin>
         </plugins>
     </build>
+
+    <profiles>
+        <profile>
+            <id>rdc</id>
+            <properties>
+                <altReleaseDeploymentRepository>
+                    rdc-releases::default::https://packages.aliyun.com/maven/repository/2134084-release-ccQhUm/
+                </altReleaseDeploymentRepository>
+                <altSnapshotDeploymentRepository>
+                    rdc-snapshots::default::https://packages.aliyun.com/maven/repository/2134084-snapshot-hXBWHw/
+                </altSnapshotDeploymentRepository>
+            </properties>
+        </profile>
+    </profiles>
 
 </project>
