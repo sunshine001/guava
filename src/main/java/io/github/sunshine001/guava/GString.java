@@ -3,8 +3,16 @@ package io.github.sunshine001.guava;
 public class GString {
     private StringBuilder builder;
 
+    public GString() {
+        builder = new StringBuilder();
+    }
+
     public GString(String str) {
         builder = new StringBuilder(str);
+    }
+
+    public static GString n() {
+        return new GString();
     }
 
     public static GString n(String str) {
