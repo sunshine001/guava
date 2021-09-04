@@ -8,6 +8,7 @@ public class Application {
         }).map(e->{
             return e + "1";
         });
-        Console.log(map.build(), list.build());
+        GString gstring = new GString("123").append("345").append("789");
+        Console.log(map.build(), list.build(), gstring.build());
     }
 }

@@ -20,52 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1369a0d-dfc1-486b-a74c-673502ea8ec5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GString.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/Application.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/Application.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/Console.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/Console.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.FilterInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.FilterInterface.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.MapInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.MapInterface.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GMap.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GMap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/Application.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/Application.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/Console.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/Console.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.FilterInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.FilterInterface.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.MapInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.MapInterface.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GMap.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GMap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-use.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/guava-1.0.1-SNAPSHOT-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/guava-1.0.1-SNAPSHOT-javadoc.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/guava-1.0.1-SNAPSHOT-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/guava-1.0.1-SNAPSHOT-sources.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/guava-1.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/guava-1.0.1-SNAPSHOT.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/guava-1.0.1-SNAPSHOT.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/guava-1.0.1-SNAPSHOT.pom.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/sunshine001/guava/1.0.1-SNAPSHOT/guava-1.0.1-SNAPSHOT-javadoc.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/sunshine001/guava/1.0.1-SNAPSHOT/guava-1.0.1-SNAPSHOT-javadoc.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/sunshine001/guava/1.0.1-SNAPSHOT/guava-1.0.1-SNAPSHOT-sources.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/sunshine001/guava/1.0.1-SNAPSHOT/guava-1.0.1-SNAPSHOT-sources.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/sunshine001/guava/1.0.1-SNAPSHOT/guava-1.0.1-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/sunshine001/guava/1.0.1-SNAPSHOT/guava-1.0.1-SNAPSHOT.jar.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/sunshine001/guava/1.0.1-SNAPSHOT/guava-1.0.1-SNAPSHOT.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/sunshine001/guava/1.0.1-SNAPSHOT/guava-1.0.1-SNAPSHOT.pom.asc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/sunshine001/guava/1.0.1-SNAPSHOT/maven-metadata-nexus.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/nexus-staging/deferred/io/github/sunshine001/guava/maven-metadata-nexus.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/github/sunshine001/guava/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/sunshine001/guava/Application.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,7 +85,7 @@
       <workItem from="1630552848384" duration="9744000" />
       <workItem from="1630581480917" duration="2556000" />
       <workItem from="1630631348929" duration="1995000" />
-      <workItem from="1630724279952" duration="4697000" />
+      <workItem from="1630724279952" duration="5381000" />
     </task>
     <servers />
   </component>
