@@ -1,6 +1,12 @@
 ## Summary
 Guava is a tool's library for quickly development.
 
+## Deploy
+```
+mvn clean deploy -P sonatype-oss-release -DskipTests
+mvn clean deploy -P sonatype-oss-snapshots -DskipTests
+``` 
+
 ## Repositorie
 ```
 <repositories>
@@ -11,7 +17,7 @@ Guava is a tool's library for quickly development.
 </repositories>
 ```
 
-## Use
+## Dependency
 ```
 <dependency>
   <groupId>io.github.sunshine001</groupId>
@@ -19,9 +25,3 @@ Guava is a tool's library for quickly development.
   <version>1.0.0-SNAPSHOT</version>
 </dependency>
 ```
-
-## Deploy
-```
-mvn clean deploy -P sonatype-oss-release -DskipTests
-mvn clean deploy -P sonatype-oss-snapshots -DskipTests
-``` 
