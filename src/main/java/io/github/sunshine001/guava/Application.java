@@ -1,5 +1,8 @@
 package io.github.sunshine001.guava;
 
+import net.sf.json.JSONArray;
+import net.sf.json.JSONObject;
+
 public class Application {
     public static void main(String[] args) {
         GMap<Object> map = new GMap<>(GMap.ORDER).put("name", "cisco").put("address", 1);
@@ -14,7 +17,7 @@ public class Application {
         GMap<String> headers = GMap.n().put("authorization", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiIiLCJkZXB0X2lkIjotMSwiZXhwIjoxNjMwNzcyNzg3LCJpYXQiOjE2MzA3NjU1ODcsImlzcyI6Imh0aW1lcG9ydGFsIiwianRpIjoiYjI0N2NlNjdjODljNGJhYTk0OWRjZjBhZGNiNzA3YWIiLCJuYmYiOjE2MzA3NjU1ODcsIm9yZyI6IjU1MjA1NDM1MGMwYjQwYTk5NTFiMGI5YjhkZDlhYzZkIiwidHlwZSI6IjgiLCJ1aWQiOiJmMmFkMzU3NmZhNzQ0ODBlOTZhNTU1OWE4ZjZjNGZiYyJ9.cF6SR3CAvtV3t-x9Kl175uTcVrIqS6I3XLHITn6XJzI");
         GResponse response = GPost.n().setUrl("https://new.icity24.xyz/htime/portal/community/menu")
                 .setHeaders(headers).exec();
-        GResult result = response.result(GResponse.ARRAY);
+        GResult<JSONArray> result = response.result();
         Console.log(result.data);
     }
 

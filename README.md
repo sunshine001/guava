@@ -47,7 +47,7 @@ GString gstring = new GString("123").append("345").append("789");
 ```
 GResponse response = GPost.n().setUrl("https://www.test.com")
                 .setHeaders(headers).exec();
-GResult result = response.result(GResponse.ARRAY);
+GResult<JSONArray> result = response.result();
 ```
 ```
 GResponse<Result> response = GPost.n().setUrl("http://www.test.com")

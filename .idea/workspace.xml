@@ -23,14 +23,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1369a0d-dfc1-486b-a74c-673502ea8ec5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GPost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GResult.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GResponse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,15 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
           <option name="containerStateName" value="" />
         </value>
       </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -115,7 +110,8 @@
       <workItem from="1630753534614" duration="377000" />
       <workItem from="1630753940788" duration="991000" />
       <workItem from="1630754963585" duration="986000" />
-      <workItem from="1630761388364" duration="6375000" />
+      <workItem from="1630761388364" duration="6555000" />
+      <workItem from="1630768331108" duration="1148000" />
     </task>
     <servers />
   </component>
