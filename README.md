@@ -1,6 +1,16 @@
 ## Summary
 Guava is a tool's library for quickly development.
 
+## Repositorie
+```
+<repositories>
+  <repository>
+    <id>sonatype</id>
+    <url>https://s01.oss.sonatype.org/content/groups/public/</url>
+  </repository>
+</repositories>
+``
+
 ## Use
 ```
 <dependency>
