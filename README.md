@@ -12,5 +12,6 @@ Guava is a tool's library for quickly development.
 
 ## Deploy
 ```
-mvn clean deploy -DskipTests
+mvn clean deploy -P sonatype-oss-release -DskipTests
+mvn clean deploy -P sonatype-oss-snapshots -DskipTests
 ``` 
