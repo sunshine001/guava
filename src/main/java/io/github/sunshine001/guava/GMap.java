@@ -22,11 +22,11 @@ public class GMap<T> {
         }
     }
 
-    public static GMap _new() {
+    public static GMap n() {
         return new GMap();
     }
 
-    public static GMap _new(GMapType type) {
+    public static GMap n(GMapType type) {
         return new GMap(type);
     }
 

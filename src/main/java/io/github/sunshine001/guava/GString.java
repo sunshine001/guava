@@ -7,7 +7,7 @@ public class GString {
         builder = new StringBuilder(str);
     }
 
-    public static GString _new(String str) {
+    public static GString n(String str) {
         return new GString(str);
     }
 

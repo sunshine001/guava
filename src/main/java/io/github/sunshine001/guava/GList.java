@@ -11,7 +11,7 @@ public class GList<T> {
         list = new ArrayList<>();
     }
 
-    public static GList _new() {
+    public static GList n() {
         return new GList();
     }
 

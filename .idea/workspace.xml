@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,7 +23,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f1369a0d-dfc1-486b-a74c-673502ea8ec5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/github/sunshine001/guava/GString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/allclasses-noframe.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/constant-values.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/deprecated-list.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/help-doc.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index-all.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/Application.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/Application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/Console.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/Console.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.FilterInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.FilterInterface.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.MapInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.MapInterface.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GMap.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/GMap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/Application.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/Application.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/Console.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/Console.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.FilterInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.FilterInterface.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.MapInterface.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.MapInterface.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GList.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GMap.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/class-use/GMap.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-frame.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-summary.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-use.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/io/github/sunshine001/guava/package-use.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/apidocs/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/apidocs/overview-tree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/github/sunshine001/guava/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/sunshine001/guava/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/github/sunshine001/guava/GList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/sunshine001/guava/GList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/io/github/sunshine001/guava/GMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/io/github/sunshine001/guava/GMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/javadoc-options-javadoc-resources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/javadoc-bundle-options/package-list" beforeDir="false" afterPath="$PROJECT_DIR$/target/javadoc-bundle-options/package-list" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +91,37 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Global Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15061297" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager">
     <configuration name="guava" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="io.github.sunshine001.guava.Application" />
       <module name="java-guava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -83,11 +142,15 @@
       <workItem from="1630581480917" duration="2556000" />
       <workItem from="1630631348929" duration="1995000" />
       <workItem from="1630724279952" duration="5719000" />
+      <workItem from="1630750601252" duration="1650000" />
+      <workItem from="1630752861279" duration="644000" />
+      <workItem from="1630753534614" duration="377000" />
+      <workItem from="1630753940788" duration="213000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -100,43 +163,5 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="163" y="0" key="#Project_Structure" timestamp="1630738096802">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="163" y="0" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1630738096802" />
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1630495954477">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="137" y="18" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1630495954477" />
-    <state x="412" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1630495942145">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="412" y="152" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1630495942145" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1630665223736">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1630665223736" />
-    <state width="1322" height="226" key="GridCell.Tab.0.bottom" timestamp="1630738990818">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="226" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1630738990818" />
-    <state width="1322" height="226" key="GridCell.Tab.0.center" timestamp="1630738990818">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="226" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1630738990818" />
-    <state width="1322" height="226" key="GridCell.Tab.0.left" timestamp="1630738990817">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="226" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1630738990817" />
-    <state width="1322" height="226" key="GridCell.Tab.0.right" timestamp="1630738990818">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="1322" height="226" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1630738990818" />
-    <state x="323" y="67" key="NewModule_or_Project.wizard" timestamp="1630665225940">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="323" y="67" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1630665225940" />
   </component>
 </project>
