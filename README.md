@@ -7,6 +7,22 @@ mvn clean deploy -P sonatype-oss-release -DskipTests
 mvn clean deploy -P sonatype-oss-snapshots -DskipTests
 ``` 
 
+## Settings
+```
+<servers>
+  <server>
+    <id>sonatype-oss-snapshots</id>
+    <username>username</username>
+    <password>password</password>
+  </server>
+  <server>
+    <id>sonatype-oss-staging</id>
+    <username>username</username>
+    <password>password</password>
+  </server>
+</servers>
+```
+
 ## Repositorie
 ```
 <repositories>
