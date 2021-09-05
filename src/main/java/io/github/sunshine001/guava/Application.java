@@ -19,6 +19,12 @@ public class Application {
                 .setHeaders(headers).exec();
         GResult<JSONArray> result = response.result();
         Console.log(result.data);
+
+        try {
+            throw new GException("0001", "failure");
+        } catch (GException ge) {
+            Console.log(ge.build());
+        }
     }
 
     public static class Result {

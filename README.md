@@ -59,3 +59,11 @@ Result result = response.json(r->{
     return rst;
 });
 ```
+#### GException
+```
+try {
+    throw new GException("0001", "failure");
+} catch (GException ge) {
+    Console.log(ge.build());
+}
+```
