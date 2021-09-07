@@ -6,7 +6,11 @@
 
     <groupId>io.github.sunshine001</groupId>
     <artifactId>guava</artifactId>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.1</version>
+
+    <name>guava</name>
+    <description>Guava is a tool's library for quickly development</description>
+    <url>https://github.com/sunshine001/java-guava</url>
 
     <developers>
         <developer>
@@ -14,6 +18,19 @@
             <email>luochao0913@live.com</email>
         </developer>
     </developers>
+
+    <scm>
+        <connection>scm:git:git@github.com:sunshine001/java-guava.git</connection>
+        <developerConnection>scm:git:git@github.com:sunshine001/java-guava.git</developerConnection>
+        <url>https://github.com/sunshine001/java-guava</url>
+    </scm>
+
+    <licenses>
+        <license>
+            <name>Apache License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0</url>
+        </license>
+    </licenses>
 
     <dependencies>
         <dependency>

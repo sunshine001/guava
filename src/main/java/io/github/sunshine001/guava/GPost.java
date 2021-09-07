@@ -3,12 +3,13 @@ package io.github.sunshine001.guava;
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
+import java.util.HashMap;
 import java.util.Map;
 
 public class GPost {
     private String url;
-    private Map<String, String> headers = null;
-    private Map<String, String> body = null;
+    private Map<String, String> headers = new HashMap<>();
+    private Map<String, String> body = new HashMap<>();
 
     public static GPost n() {
         return new GPost();
@@ -20,12 +21,22 @@ public class GPost {
     }
 
     public GPost setHeaders(GMap<String> headers) {
-        this.headers = headers.build();
+        this.headers.putAll(headers.build());
+        return this;
+    }
+
+    public GPost setHeader(String key, String value) {
+        this.headers.put(key, value);
         return this;
     }
 
     public GPost setBody(GMap<String> body) {
-        this.body = body.build();
+        this.body.putAll(body.build());
+        return this;
+    }
+
+    public GPost addBody(String key, String value) {
+        this.body.put(key, value);
         return this;
     }
 
