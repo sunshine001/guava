@@ -23,16 +23,6 @@ mvn clean deploy -P sonatype-oss-snapshots -DskipTests
 </servers>
 ```
 
-## Repositorie
-```
-<repositories>
-  <repository>
-    <id>sonatype</id>
-    <url>https://s01.oss.sonatype.org/content/groups/public/</url>
-  </repository>
-</repositories>
-```
-
 ## Dependency
 ```
 <dependency>
