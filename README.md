@@ -77,6 +77,14 @@ Result result = response.json(r->{
     return rst;
 });
 ```
+#### GDate
+```
+long time = System.currentTimeMillis();
+String formatDate = new GDate(time).format(GDate.YYYY_MM_DD_HH_MM);
+```
+```
+String formatDate = new GDate("2016-06-15 22:30:22").format(GDate.YYYY_MM_DD)
+```
 #### GException
 ```
 try {

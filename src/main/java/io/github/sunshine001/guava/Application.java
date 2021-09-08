@@ -25,6 +25,12 @@ public class Application {
         } catch (GException ge) {
             Console.log(ge.build());
         }
+
+        long t1 = System.currentTimeMillis();
+        String formatDate = new GDate(t1).format(GDate.YYYY_MM_DD_HH_MM);
+        Console.log(formatDate);
+
+        Console.log(new GDate("2016-06-15 22:30:22").format(GDate.YYYY_MM_DD));
     }
 
     public static class Result {
