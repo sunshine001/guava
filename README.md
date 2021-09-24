@@ -28,7 +28,7 @@ mvn clean deploy -P sonatype-oss-snapshots -DskipTests
 <dependency>
   <groupId>io.github.sunshine001</groupId>
   <artifactId>guava</artifactId>
-  <version>1.0.1</version>
+  <version>1.0.3</version>
 </dependency>
 ```
 
